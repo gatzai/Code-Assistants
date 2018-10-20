@@ -1,3 +1,6 @@
+/*
+OW 鼠标自动点击工具
+*/
 #include <stdio.h>
 #include <windows.h>
 #include <stdlib.h>
