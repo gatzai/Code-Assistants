@@ -1,0 +1,14 @@
+{
+	"tokens":
+	{
+		"xxx": "xxx"
+	},
+	"mail":
+	{
+		"mail_enable":0, 			 
+		"mail_host":"smtp.qq.com", 			 
+		"mail_recer": ["xxx@qq.com"], 
+		"mail_pass": "xxx...",	 
+		"mail_sender": "xxx@qq.com"   
+	}
+}
